@@ -5,8 +5,8 @@ setup(
     version="0.1",
     packages=find_packages(),
     description="Easy linked list utils",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="sayan",
+    author_email="sayanbanik444@gmail.com",
     url="https://github.com/sayan052/ll_utils",
     python_requires='>=3.6',
 )
